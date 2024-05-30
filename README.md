@@ -16,4 +16,4 @@
 ***图床: https://img.102004.xyz**
 
 
-***短链: https://url.102004.xyz***
+***短链: https://url.102004.xyz/emokui***
